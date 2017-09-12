@@ -1,0 +1,16 @@
+MainWindowPosition = 0.5,0.699999988
+MainWindowVisible = False
+ShowSettings = False
+DeleteExistingManeuvers = False
+GeneratePlaneChangeBurns = True
+AddPlaneChangeDeltaV = False
+AutoTargetDestination = True
+AutoFocusDestination = True
+AutoSetSAS = True
+AutoEditEjectionNode = True
+AutoEditPlaneChangeNode = False
+TransferSort = Position
+DescendingSort = False
+DisplayUnits = Metric
+ShowTrackedAsteroids = True
+TranslationAdjust = True

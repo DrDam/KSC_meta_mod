@@ -1,0 +1,102 @@
+toolbars
+{
+	MAINMENU
+	{
+		toolbar_1004240004
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 0
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+		toolbar_1411594150
+		{
+			x = 182
+			y = 27
+			width = 55
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = AmbientLightAdjustment.adjustLevels
+		}
+		toolbar_832516477
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	SPACECENTER
+	{
+		toolbar_1411594150
+		{
+			x = 182
+			y = 27
+			width = 55
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = AmbientLightAdjustment.adjustLevels
+		}
+	}
+	TRACKSTATION
+	{
+		toolbar_2076358387
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	FLIGHTMAP
+	{
+		toolbar_1949554959
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	FLIGHT
+	{
+		toolbar_832516477
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+}

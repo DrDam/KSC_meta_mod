@@ -1,0 +1,277 @@
+Executing: KSP-AVC - 1.1.6.2
+Assembly: D:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KSP-AVC\KSP-AVC.dll
+
+[Text 22:49:53.8366693]: Starter was created.
+[Text 22:49:57.7940399]: Checking Root: D:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData
+[Text 22:49:57.8230516]: CheckerProgressGui was created.
+[Text 22:49:58.5895621]: Identical remote version found: Using remote version information only.
+[Text 22:49:58.5895621]: https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version
+	NAME: ModularFlightIntegrator
+	URL: https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version
+	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/118088
+	GITHUB: NULL
+	VERSION: 1.2.4
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: 1.2.2
+	KSP_VERSION_MAX: 1.3
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+[Text 22:49:58.5915634]: Identical remote version found: Using remote version information only.
+[Text 22:49:58.5915634]: https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version
+	NAME: ModularFlightIntegrator
+	URL: https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version
+	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/118088
+	GITHUB: NULL
+	VERSION: 1.2.4
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: 1.2.2
+	KSP_VERSION_MAX: 1.3
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+
+[Text 22:49:58.6891290]: D:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\AmbientLightAdjustment\AmbientLightAdjustment.version
+	NAME: Ambient Light Adjustment
+	URL: https://raw.githubusercontent.com/timmersuk/ksp_irc/master/ksp_ambient_light/etc/AmbientLightAdjustment.version
+	DOWNLOAD: https://github.com/timmersuk/ksp_ambient_light/releases
+	GITHUB: timmersuk/ksp_ambient_light
+		LatestRelease: NULL
+		AllowPreRelease: False
+	VERSION: 2.6.3.8
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: 1.3
+	KSP_VERSION_MAX: 1.3
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:58.6936320]: D:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RealSolarSystem\RealSolarSystem.version
+	NAME: RealSolarSystem
+	URL: https://raw.githubusercontent.com/KSP-RO/RealSolarSystem/master/RealSolarSystem/RealSolarSystem.version
+	DOWNLOAD: NULL
+	GITHUB: NULL
+	VERSION: 12.0
+	KSP_VERSION: Any
+	KSP_VERSION_MIN: 1.2.2
+	KSP_VERSION_MAX: 1.2.3
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: False
+	CompatibleGitHubVersion: True
+
+[Text 22:49:58.6936320]: Identical remote version found: Using remote version information only.
+[Text 22:49:58.6936320]: https://raw.githubusercontent.com/MOARdV/DistantObject/master/GameData/DistantObject/DistantObject.version
+	NAME: DistantObjectEnhancement
+	URL: https://raw.githubusercontent.com/MOARdV/DistantObject/master/GameData/DistantObject/DistantObject.version
+	DOWNLOAD: https://github.com/MOARdV/DistantObject/releases
+	GITHUB: NULL
+	VERSION: 1.9.1
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: 1.3
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:58.7186485]: Identical remote version found: Using remote version information only.
+[Text 22:49:58.7186485]: http://ksp-avc.cybutek.net/version.php?id=2
+	NAME: KSP-AVC Plugin
+	URL: http://ksp-avc.cybutek.net/version.php?id=2
+	DOWNLOAD: http://kerbal.curseforge.com/projects/ksp-avc-add-on-version-checker
+	GITHUB: NULL
+	VERSION: 1.1.6.2
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: 1.2.1
+	KSP_VERSION_MAX: 1.3
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:58.8922635]: Identical remote version found: Using remote version information only.
+[Text 22:49:58.8922635]: http://ksp-avc.cybutek.net/version.php?id=458
+	NAME: SSRSS
+	URL: http://ksp-avc.cybutek.net/version.php?id=458
+	DOWNLOAD: https://github.com/Galileo88/SSRSSContinued/releases
+	GITHUB: NULL
+	VERSION: 0.0.3
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: 1.3
+	KSP_VERSION_MAX: 1.3
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:58.8922635]: Identical remote version found: Using remote version information only.
+[Text 22:49:58.8922635]: http://ksp-avc.cybutek.net/version.php?id=481
+	NAME: Toolbar
+	URL: http://ksp-avc.cybutek.net/version.php?id=481
+	DOWNLOAD: NULL
+	GITHUB: NULL
+	VERSION: 1.7.14
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: NULL
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:59.1154126]: Identical remote version found: Using remote version information only.
+[Text 22:49:59.1154126]: http://ksp-avc.cybutek.net/version.php?id=6
+	NAME: Kerbal Engineer Redux
+	URL: http://ksp-avc.cybutek.net/version.php?id=6
+	DOWNLOAD: http://kerbal.curseforge.com/projects/kerbal-engineer-redux
+	GITHUB: NULL
+	VERSION: 1.1.3
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: 1.2.9
+	KSP_VERSION_MAX: 1.3
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:59.1154126]: Identical remote version found: Using remote version information only.
+[Text 22:49:59.1154126]: https://raw.githubusercontent.com/Kopernicus/Kopernicus/master/Distribution/Release/GameData/Kopernicus/Plugins/Kopernicus.version
+	NAME: <b><color=#CA7B3C>Kopernicus</color></b>
+	URL: https://raw.githubusercontent.com/Kopernicus/Kopernicus/master/Distribution/Release/GameData/Kopernicus/Plugins/Kopernicus.version
+	DOWNLOAD: https://github.com/Kopernicus/Kopernicus/releases/latest
+	GITHUB: NULL
+	VERSION: 1.3.0.6
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: NULL
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:59.2915296]: Identical remote version found: Using remote version information only.
+[Text 22:49:59.2915296]: https://raw.githubusercontent.com/valerian/ksp-planetshine/master/PlanetShine.version
+	NAME: PlanetShine
+	URL: https://raw.githubusercontent.com/valerian/ksp-planetshine/master/PlanetShine.version
+	DOWNLOAD: http://mods.curse.com/ksp-mods/kerbal/224876-planetshine
+	GITHUB: valerian/ksp-planetshine
+		LatestRelease: NULL
+		AllowPreRelease: False
+	VERSION: 0.2.5.2
+	KSP_VERSION: 1.2
+	KSP_VERSION_MIN: 1.2
+	KSP_VERSION_MAX: 1.2.99
+	CompatibleKspVersion: False
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: False
+	CompatibleGitHubVersion: True
+
+[Text 22:49:59.6993089]: Identical remote version found: Using remote version information only.
+[Text 22:49:59.6993089]: https://raw.githubusercontent.com/pellinor0/TweakScale/master/GameData/TweakScale/TweakScale.version
+	NAME: TweakScale
+	URL: https://raw.githubusercontent.com/pellinor0/TweakScale/master/GameData/TweakScale/TweakScale.version
+	DOWNLOAD: http://spacedock.info/mod/127/TweakScale/
+	GITHUB: Pellinor/TweakScale
+		LatestRelease: NULL
+		AllowPreRelease: False
+	VERSION: 2.3.6
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: NULL
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:59.7023032]: Identical remote version found: Using remote version information only.
+[Text 22:49:59.7023032]: https://raw.githubusercontent.com/HebaruSan/Astrogator/master/Astrogator.version
+	NAME: Astrogator
+	URL: https://raw.githubusercontent.com/HebaruSan/Astrogator/master/Astrogator.version
+	DOWNLOAD: https://github.com/HebaruSan/Astrogator/releases
+	GITHUB: HebaruSan/Astrogator
+		LatestRelease: 0.7.8
+		AllowPreRelease: False
+	VERSION: 0.7.8
+	KSP_VERSION: Any
+	KSP_VERSION_MIN: 1.3
+	KSP_VERSION_MAX: 1.3.8
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:49:59.9049380]: Identical remote version found: Using remote version information only.
+[Text 22:49:59.9049380]: https://raw.githubusercontent.com/StollD/Kronometer/master/Distribution/Release/GameData/Kronometer/Plugins/Kronometer.version
+	NAME: <b><color=#FF80FF>Kronometer</color></b>
+	URL: https://raw.githubusercontent.com/StollD/Kronometer/master/Distribution/Release/GameData/Kronometer/Plugins/Kronometer.version
+	DOWNLOAD: https://github.com/StollD/Kronometer/releases/latest
+	GITHUB: StollD/Kronometer
+		LatestRelease: 1.3.2
+		AllowPreRelease: False
+	VERSION: 1.3.0.2
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: NULL
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: False
+
+[Text 22:49:59.9064389]: D:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\DeadlyReentry\DeadlyReentry.version
+	NAME: Deadly Reentry
+	URL: https://raw.githubusercontent.com/Starwaster/DeadlyReentry/master/DeadlyReentry/DeadlyReentry.version
+	DOWNLOAD: https://github.com/Starwaster/DeadlyReentry/releases
+	GITHUB: Starwaster/DeadlyReentry
+		LatestRelease: NULL
+		AllowPreRelease: False
+	VERSION: 7.6.0.1
+	KSP_VERSION: 1.2.2
+	KSP_VERSION_MIN: 1.2
+	KSP_VERSION_MAX: 1.2.99
+	CompatibleKspVersion: False
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: False
+	CompatibleGitHubVersion: True
+[Text 22:49:59.9064389]: https://raw.githubusercontent.com/Starwaster/DeadlyReentry/master/DeadlyReentry/DeadlyReentry.version
+	NAME: Deadly Reentry
+	URL: https://raw.githubusercontent.com/Starwaster/DeadlyReentry/master/DeadlyReentry/DeadlyReentry.version
+	DOWNLOAD: https://github.com/Starwaster/DeadlyReentry/releases
+	GITHUB: Starwaster/DeadlyReentry
+		LatestRelease: 7.6
+		AllowPreRelease: False
+	VERSION: 7.6.1
+	KSP_VERSION: 1.2.2
+	KSP_VERSION_MIN: 1.2
+	KSP_VERSION_MAX: 1.2.99
+	CompatibleKspVersion: False
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: False
+	CompatibleGitHubVersion: False
+	UpdateAvailable: False
+
+[Text 22:50:00.3072062]: Identical remote version found: Using remote version information only.
+[Text 22:50:00.3072062]: https://raw.githubusercontent.com/Sigma88/Sigma-Dimensions/master/GameData/Sigma/Dimensions/Configs/Sigma-Dimensions.version
+	NAME: <b><color=#7080FF>Sigma Dimensions</color></b>
+	URL: https://raw.githubusercontent.com/Sigma88/Sigma-Dimensions/master/GameData/Sigma/Dimensions/Configs/Sigma-Dimensions.version
+	DOWNLOAD: http://forum.kerbalspaceprogram.com/index.php?/topic/126548-0
+	GITHUB: Sigma88/Sigma-Dimensions
+		LatestRelease: 0.9.2
+		AllowPreRelease: False
+	VERSION: 0.9.2
+	KSP_VERSION: 1.3
+	KSP_VERSION_MIN: NULL
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 22:50:00.6264190]: IssueGui was created.
+[Text 22:50:00.8775861]: Starter was destroyed.
+[Text 22:50:00.8795958]: CheckerProgressGui was destroyed.
+[Text 22:50:01.9402936]: IssueGui was destroyed.

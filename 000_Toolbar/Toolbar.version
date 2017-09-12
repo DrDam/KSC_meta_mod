@@ -1,0 +1,15 @@
+{
+  "NAME": "Toolbar",
+  "URL": "http://ksp-avc.cybutek.net/version.php?id=481",
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 7,
+    "PATCH": 14,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 0
+  }
+}

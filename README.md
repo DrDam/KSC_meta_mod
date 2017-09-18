@@ -4,6 +4,11 @@
 
 ## Purpose / Objet
 
+RAM consumption : 
+High-res : 6.2Go
+Master : 4.8Go
+Low-res : 2Go
+
 ## Content, Licences, links
 
 000_Toolbar : 

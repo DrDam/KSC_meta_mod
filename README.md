@@ -48,12 +48,6 @@ __KSCSwitcher__ :
 - Forum : 
 - Git : https://github.com/jbengtson/KSCSwitcher/
 
-__KSP-AVC__ :
-- by **cybutek**
-- Version *1.1.6.2*
-- Forum : https://forum.kerbalspaceprogram.com/index.php?/topic/72169-13-12-ksp-avc-add-on-version-checker-plugin-1162-miniavc-ksp-avc-online-2016-10-13/
-- Git : https://github.com/CYBUTEK/KSPAddonVersionChecker/
-
 __KerbalEngineer__ :
 - by **cybutek**
 - Version *1.1.3.0*
@@ -94,10 +88,10 @@ __RSS-Textures__ :
 
 __RealSolarSystem__ :
 - by **NathanKell**
-- Version *12.0*
+- Version *12.0 + patch*
 - Forum : https://forum.kerbalspaceprogram.com/index.php?/topic/50471-12-real-solar-system-v120-dec-8/
 - Git : https://github.com/KSP-RO/RealSolarSystem/
-
+- patch : https://www.dropbox.com/s/0fz5u60e2x2yuhc/RSS%201.3%20Fix.zip?dl=1
 __SSRSS__ :
 - by **Galileo88**
 - Version *0.0.3.0*
